@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-﻿“Krbasnikov Project                  ”
+﻿<<<<<<< HEAD
+﻿“1 Project                  ”
 =======
-﻿“Krbasnikoff Project  ”
+﻿“Project  ”
 >>>>>>> newbranch
