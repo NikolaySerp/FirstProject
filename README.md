@@ -3,4 +3,3 @@
 =======
 ﻿“readme.txt.txt.txt.txt.txt”
 >>>>>>> newbranch
-some text
