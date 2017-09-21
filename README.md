@@ -3,3 +3,4 @@
 =======
 ﻿“Project123  ”
 >>>>>>> newbranch
+some text
