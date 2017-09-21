@@ -1,5 +1,5 @@
 ﻿<<<<<<< HEAD
 ﻿“1 Project ”
 =======
-﻿“readme.txt”
+﻿“readme.t”
 >>>>>>> newbranch
